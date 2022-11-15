@@ -30,6 +30,10 @@
      font-weight: normal;
      overflow-x: hidden;
 }
+.info-change{
+  color: #114c7d;
+  height: 150px;
+}
  a {
      color: #1f1f1f;
      text-decoration: none !important;
@@ -1033,7 +1037,6 @@
      display: block;
      color: #000;
      line-height: 50px;
-     padding-bottom: 70px;
 }
 
 .land_bold {color: #fff;}
@@ -2394,4 +2397,9 @@ body {
    .footer_section a {
      color: #9c9b9b;
    }
-   /*# sourceMappingURL=style.css.map */
+   
+
+
+
+
+   /*# sourceMappingURL=style.css.map */}
